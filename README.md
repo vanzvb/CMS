@@ -1,3 +1,4 @@
+--STEPS FOR INSTALLING LARAVEL 8 with login and register
 1
 composer create-project laravel/laravel CMS 8.0
 or
@@ -19,5 +20,6 @@ https://laravelarticle.com/laravel-8-authentication-tutorial
 4
 php artisan serve
 
-
+--After installing laravel 8
+https://www.itsolutionstuff.com/post/laravel-8-user-roles-and-permissions-tutorialexample.html
 
